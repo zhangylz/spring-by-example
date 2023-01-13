@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="simple-tiles2:war">
+    <output-path>$PROJECT_DIR$/web/simple-tiles2-webapp/target</output-path>
+    <root id="archive" name="simple-tiles.war">
+      <element id="artifact" artifact-name="simple-tiles2:war exploded" />
+    </root>
+  </artifact>
+</component>

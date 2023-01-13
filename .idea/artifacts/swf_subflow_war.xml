@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="swf-subflow:war">
+    <output-path>$PROJECT_DIR$/web/spring-webflow-subflow-webapp/target</output-path>
+    <root id="archive" name="swf-subflow.war">
+      <element id="artifact" artifact-name="swf-subflow:war exploded" />
+    </root>
+  </artifact>
+</component>

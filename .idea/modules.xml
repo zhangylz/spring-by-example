@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/core/aspectj-load-time-weaving/aspectj-load-time-weaving.iml" filepath="$PROJECT_DIR$/core/aspectj-load-time-weaving/aspectj-load-time-weaving.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/basic-dependency-injection/basic-dependency-injection.iml" filepath="$PROJECT_DIR$/core/basic-dependency-injection/basic-dependency-injection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enterprise/bean-validation/bean-validation.iml" filepath="$PROJECT_DIR$/enterprise/bean-validation/bean-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/contact-app/contact-dao/contact-dao.iml" filepath="$PROJECT_DIR$/app/contact-app/contact-dao/contact-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/contact-app/contact-rest-services/contact-rest-services.iml" filepath="$PROJECT_DIR$/app/contact-app/contact-rest-services/contact-rest-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/contact-app/contact-services/contact-services.iml" filepath="$PROJECT_DIR$/app/contact-app/contact-services/contact-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/contact-app/contact-test/contact-test.iml" filepath="$PROJECT_DIR$/app/contact-app/contact-test/contact-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/contact-app/contact-webapp/contact-webapp.iml" filepath="$PROJECT_DIR$/app/contact-app/contact-webapp/contact-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/contact-app/contact-ws-beans/contact-ws-beans.iml" filepath="$PROJECT_DIR$/app/contact-app/contact-ws-beans/contact-ws-beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/dynamic-tiles2-webapp/dynamic-tiles2.iml" filepath="$PROJECT_DIR$/web/dynamic-tiles2-webapp/dynamic-tiles2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proto-pom/proto-pom.iml" filepath="$PROJECT_DIR$/proto-pom/proto-pom.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proto-pom/example/proto-pom-example.iml" filepath="$PROJECT_DIR$/proto-pom/example/proto-pom-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proto-pom/example/example-web/proto-pom-example-web.iml" filepath="$PROJECT_DIR$/proto-pom/example/example-web/proto-pom-example-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proto-pom/jar/proto-pom-jar.iml" filepath="$PROJECT_DIR$/proto-pom/jar/proto-pom-jar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/contact-app/sbe-app-contact-parent.iml" filepath="$PROJECT_DIR$/app/contact-app/sbe-app-contact-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/sbe-app-parent.iml" filepath="$PROJECT_DIR$/app/sbe-app-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/sbe-core-parent.iml" filepath="$PROJECT_DIR$/core/sbe-core-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/sbe-dynamic-tiles2/sbe-dynamic-tiles2.iml" filepath="$PROJECT_DIR$/modules/sbe-dynamic-tiles2/sbe-dynamic-tiles2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enterprise/sbe-enterprise-parent.iml" filepath="$PROJECT_DIR$/enterprise/sbe-enterprise-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/sbe-jcr/sbe-jcr.iml" filepath="$PROJECT_DIR$/modules/sbe-jcr/sbe-jcr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/sbe-modules-parent.iml" filepath="$PROJECT_DIR$/modules/sbe-modules-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sbe-parent.iml" filepath="$PROJECT_DIR$/sbe-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persistence/sbe-persistence-parent.iml" filepath="$PROJECT_DIR$/persistence/sbe-persistence-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/sbe-rest/sbe-rest-core/sbe-rest-core.iml" filepath="$PROJECT_DIR$/modules/sbe-rest/sbe-rest-core/sbe-rest-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/sbe-rest/sbe-rest-core-api/sbe-rest-core-api.iml" filepath="$PROJECT_DIR$/modules/sbe-rest/sbe-rest-core-api/sbe-rest-core-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/sbe-rest/sbe-rest-core-test/sbe-rest-core-test.iml" filepath="$PROJECT_DIR$/modules/sbe-rest/sbe-rest-core-test/sbe-rest-core-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/sbe-rest/sbe-rest-parent.iml" filepath="$PROJECT_DIR$/modules/sbe-rest/sbe-rest-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/sbe-rest/sbe-rest-services/sbe-rest-services.iml" filepath="$PROJECT_DIR$/modules/sbe-rest/sbe-rest-services/sbe-rest-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/sbe-rest/sbe-rest-test/sbe-rest-test.iml" filepath="$PROJECT_DIR$/modules/sbe-rest/sbe-rest-test/sbe-rest-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/sbe-rest/sbe-rest-ws-beans/sbe-rest-ws-beans.iml" filepath="$PROJECT_DIR$/modules/sbe-rest/sbe-rest-ws-beans/sbe-rest-ws-beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/sbe-servlet-context-scope/sbe-servlet-context-scope.iml" filepath="$PROJECT_DIR$/modules/sbe-servlet-context-scope/sbe-servlet-context-scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/sbe-thread-scope/sbe-thread-scope.iml" filepath="$PROJECT_DIR$/modules/sbe-thread-scope/sbe-thread-scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/sbe-util/sbe-util.iml" filepath="$PROJECT_DIR$/modules/sbe-util/sbe-util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/sbe-validation/sbe-validation.iml" filepath="$PROJECT_DIR$/modules/sbe-validation/sbe-validation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/modules/sbe-web/sbe-web.iml" filepath="$PROJECT_DIR$/modules/sbe-web/sbe-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/sbe-web-parent.iml" filepath="$PROJECT_DIR$/web/sbe-web-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/simple-form-annotation-config-webapp/simple-form-annotation-config-webapp.iml" filepath="$PROJECT_DIR$/web/simple-form-annotation-config-webapp/simple-form-annotation-config-webapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persistence/simple-hibernate/simple-hibernate.iml" filepath="$PROJECT_DIR$/persistence/simple-hibernate/simple-hibernate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enterprise/simple-spring-jms/simple-jms.iml" filepath="$PROJECT_DIR$/enterprise/simple-spring-jms/simple-jms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/persistence/simple-jpa/simple-jpa.iml" filepath="$PROJECT_DIR$/persistence/simple-jpa/simple-jpa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/simple-spring-security-webapp/simple-security.iml" filepath="$PROJECT_DIR$/web/simple-spring-security-webapp/simple-security.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enterprise/spring-integration/simple-spring-integration.iml" filepath="$PROJECT_DIR$/enterprise/spring-integration/simple-spring-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enterprise/simple-spring-web-services/simple-spring-web-services.iml" filepath="$PROJECT_DIR$/enterprise/simple-spring-web-services/simple-spring-web-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/simple-tiles2-webapp/simple-tiles2.iml" filepath="$PROJECT_DIR$/web/simple-tiles2-webapp/simple-tiles2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/simple-spring-webflow-webapp/simple-webflow.iml" filepath="$PROJECT_DIR$/web/simple-spring-webflow-webapp/simple-webflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enterprise/solr-client/solr-client.iml" filepath="$PROJECT_DIR$/enterprise/solr-client/solr-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enterprise/spring-jmx/spring-jmx.iml" filepath="$PROJECT_DIR$/enterprise/spring-jmx/spring-jmx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enterprise/spring-modules-jcr/spring-modules-jcr.iml" filepath="$PROJECT_DIR$/enterprise/spring-modules-jcr/spring-modules-jcr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enterprise/spring-rest-services/spring-rest-services.iml" filepath="$PROJECT_DIR$/enterprise/spring-rest-services/spring-rest-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web/spring-webflow-subflow-webapp/swf-subflow.iml" filepath="$PROJECT_DIR$/web/spring-webflow-subflow-webapp/swf-subflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/enterprise/velocity-email-template/velocity-email-template.iml" filepath="$PROJECT_DIR$/enterprise/velocity-email-template/velocity-email-template.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/contact-app/contact-dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/contact-app/contact-rest-services" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/contact-app/contact-services" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/contact-app/contact-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/contact-app/contact-webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/contact-app/contact-ws-beans" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/aspectj-load-time-weaving" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/core/basic-dependency-injection" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enterprise/bean-validation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enterprise/simple-spring-jms" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enterprise/simple-spring-web-services" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enterprise/solr-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enterprise/spring-integration" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enterprise/spring-jmx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enterprise/spring-modules-jcr" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enterprise/spring-rest-services" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/enterprise/velocity-email-template" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/sbe-dynamic-tiles2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/sbe-jcr" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/sbe-rest/sbe-rest-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/sbe-rest/sbe-rest-core-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/sbe-rest/sbe-rest-core-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/sbe-rest/sbe-rest-services" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/sbe-rest/sbe-rest-test" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/sbe-rest/sbe-rest-ws-beans" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/sbe-servlet-context-scope" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/sbe-thread-scope" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/sbe-util" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/sbe-validation" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/modules/sbe-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/persistence/simple-hibernate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/persistence/simple-jpa" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proto-pom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proto-pom/example" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proto-pom/example/example-web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/proto-pom/jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/dynamic-tiles2-webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/simple-form-annotation-config-webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/simple-spring-security-webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/simple-spring-webflow-webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/simple-tiles2-webapp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web/spring-webflow-subflow-webapp" charset="UTF-8" />
+  </component>
+</project>

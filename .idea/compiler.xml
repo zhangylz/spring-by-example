@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="aspectj-load-time-weaving" />
+        <module name="basic-dependency-injection" />
+        <module name="bean-validation" />
+        <module name="contact-dao" />
+        <module name="contact-rest-services" />
+        <module name="contact-services" />
+        <module name="contact-test" />
+        <module name="contact-webapp" />
+        <module name="contact-ws-beans" />
+        <module name="dynamic-tiles2" />
+        <module name="sbe-dynamic-tiles2" />
+        <module name="sbe-jcr" />
+        <module name="sbe-rest-core" />
+        <module name="sbe-rest-core-api" />
+        <module name="sbe-rest-core-test" />
+        <module name="sbe-rest-services" />
+        <module name="sbe-rest-test" />
+        <module name="sbe-rest-ws-beans" />
+        <module name="sbe-servlet-context-scope" />
+        <module name="sbe-thread-scope" />
+        <module name="sbe-util" />
+        <module name="sbe-validation" />
+        <module name="sbe-web" />
+        <module name="simple-form-annotation-config-webapp" />
+        <module name="simple-hibernate" />
+        <module name="simple-jms" />
+        <module name="simple-jpa" />
+        <module name="simple-security" />
+        <module name="simple-spring-integration" />
+        <module name="simple-spring-web-services" />
+        <module name="simple-tiles2" />
+        <module name="simple-webflow" />
+        <module name="solr-client" />
+        <module name="spring-jmx" />
+        <module name="spring-modules-jcr" />
+        <module name="spring-rest-services" />
+        <module name="swf-subflow" />
+        <module name="velocity-email-template" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="aspectj-load-time-weaving" target="1.8" />
+      <module name="basic-dependency-injection" target="1.8" />
+      <module name="bean-validation" target="1.8" />
+      <module name="contact-dao" target="1.8" />
+      <module name="contact-rest-services" target="1.8" />
+      <module name="contact-services" target="1.8" />
+      <module name="contact-test" target="1.8" />
+      <module name="contact-webapp" target="1.8" />
+      <module name="contact-ws-beans" target="1.8" />
+      <module name="dynamic-tiles2" target="1.8" />
+      <module name="proto-pom" target="1.5" />
+      <module name="proto-pom-example" target="1.5" />
+      <module name="proto-pom-example-web" target="1.5" />
+      <module name="proto-pom-jar" target="1.5" />
+      <module name="sbe-app-contact-parent" target="1.5" />
+      <module name="sbe-app-parent" target="1.5" />
+      <module name="sbe-core-parent" target="1.5" />
+      <module name="sbe-dynamic-tiles2" target="1.8" />
+      <module name="sbe-enterprise-parent" target="1.5" />
+      <module name="sbe-jcr" target="1.8" />
+      <module name="sbe-modules-parent" target="1.5" />
+      <module name="sbe-parent" target="1.5" />
+      <module name="sbe-persistence-parent" target="1.5" />
+      <module name="sbe-rest-core" target="1.8" />
+      <module name="sbe-rest-core-api" target="1.8" />
+      <module name="sbe-rest-core-test" target="1.8" />
+      <module name="sbe-rest-parent" target="1.5" />
+      <module name="sbe-rest-services" target="1.8" />
+      <module name="sbe-rest-test" target="1.8" />
+      <module name="sbe-rest-ws-beans" target="1.8" />
+      <module name="sbe-servlet-context-scope" target="1.8" />
+      <module name="sbe-thread-scope" target="1.8" />
+      <module name="sbe-util" target="1.8" />
+      <module name="sbe-validation" target="1.8" />
+      <module name="sbe-web" target="1.8" />
+      <module name="sbe-web-parent" target="1.5" />
+      <module name="simple-form-annotation-config-webapp" target="1.8" />
+      <module name="simple-hibernate" target="1.8" />
+      <module name="simple-jms" target="1.8" />
+      <module name="simple-jpa" target="1.8" />
+      <module name="simple-security" target="1.8" />
+      <module name="simple-spring-integration" target="1.8" />
+      <module name="simple-spring-web-services" target="1.8" />
+      <module name="simple-tiles2" target="1.8" />
+      <module name="simple-webflow" target="1.8" />
+      <module name="solr-client" target="1.8" />
+      <module name="spring-jmx" target="1.8" />
+      <module name="spring-modules-jcr" target="1.8" />
+      <module name="spring-rest-services" target="1.8" />
+      <module name="swf-subflow" target="1.8" />
+      <module name="velocity-email-template" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

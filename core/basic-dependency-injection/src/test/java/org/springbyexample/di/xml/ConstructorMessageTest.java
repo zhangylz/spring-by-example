@@ -33,6 +33,7 @@ import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
  * @author David Winterfeldt
  */
 @RunWith(SpringJUnit4ClassRunner.class)
+// test autowired below injection important.
 @ContextConfiguration
 public class ConstructorMessageTest {
 
